@@ -1,0 +1,5 @@
+--colors
+--webpack-config webpack.config.test.js
+--require source-map-support/register
+--timeout 5000
+test/**/*.js
