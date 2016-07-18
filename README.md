@@ -9,9 +9,9 @@ This is basically a combination of
 
 ## What does this include
 
-- Webpack-based build script
-- ES6 support
-- ESlint for ES6 using Airbnb JS style guide
+- Webpack build script with Webpack dev server
+- ES2015/ES6
+- ESlint for ES2015 using Airbnb JS style guide
 - React for front-end view
 - Solidity for Ethereum smart contracts
 - Test suite for smart contract testing
