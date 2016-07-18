@@ -1,4 +1,6 @@
-# React Ethereum Dapp Template
+# React Ethereum Dapp Template 
+
+[![Build Status](https://travis-ci.org/uzyn/react-ethereum-dapp-template.svg?branch=master)](https://travis-ci.org/uzyn/react-ethereum-dapp-template)
 
 Template for React-based Ethereum decentralized app (Dapp). 
 
