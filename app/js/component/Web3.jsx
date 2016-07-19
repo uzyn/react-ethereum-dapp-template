@@ -14,7 +14,7 @@ export default function Web3() {
         <dt>Accounts</dt>
         <dd>
           {web3.eth.accounts.map(
-            (account) => <div>{account}</div>
+            (account) => <div key={account}>{account}</div>
           )}
         </dd>
       </dl>
